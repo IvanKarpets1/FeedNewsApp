@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Mark Zuckerberg",
+        "location": {
+            "city": "San Francisco",
+            "state": "CA"
+        },
+        "profileImageName": "zuckerberg",
+        "statusText": "Trying a new sport in Kauai with one of the best, Kai Lenny.",
+        "statusImageName": "waterSkiing",
+        "numLikes": 123,
+        "numComments": 23,
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "location": {
+            "city": "San Francisco",
+            "state": "CA"
+        },
+        "profileImageName": "zuckerberg",
+        "statusText": "Today we're celebrating Deborah Liu's 10 year faceversary! (That's your anniversary of joining Facebook.)",
+        "statusImageName": "celebration",
+        "numLikes": 4252,
+        "numComments": 901,
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "location": {
+            "city": "San Francisco",
+            "state": "CA"
+        },
+        "profileImageName": "zuckerberg",
+        "statusText": "Tahoe sunset.",
+        "statusImageName": "sup-boarding",
+        "numLikes": 1243,
+        "numComments": 563,
+    },
+    {
+        "name": "Bill Gates",
+        "location": {
+            "city": "Los-Angeles",
+            "state": "CA"
+        },
+        "profileImageName": "gates",
+        "statusText": "It is a terrible injustice that the people who suﬀer the most from climate change are the poorest farmers in the world who did nothing to cause it. Ethiopia’s successful approach to building resilience offers hope.",
+        "statusImageName": "farm",
+        "numLikes": 724,
+        "numComments": 49,
+    },
+    {
+        "name": "Bill Gates",
+        "location": {
+            "city": "Los-Angeles",
+            "state": "CA"
+        },
+        "profileImageName": "gates",
+        "statusText": "Here’s a remarkable statistic: Nearly 1.1 billion fewer people are living in extreme poverty today than in 1990. Even with all this progress, the number of people living on less than $2 a day is over 700 million.\nIt’s difficult for most of us—especially those living in the wealthiest countries—to imagine what life is like on less than $2 a day.\nThat’s why I’d like to invite you to listen to the voices of some of the world’s poorest people answer that question for themselves. I hope you will be touched by their stories, their challenges, and their dreams for better lives—and then ask what you can do to help the millions of people like them.",
+        "statusImageName": "people",
+        "numLikes": 2125,
+        "numComments": 843,
+    }    
+]
